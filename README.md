@@ -1,6 +1,6 @@
-# Projetos-HTML
+# Site Barbearia Alura
 Projeto html basico feito em aulas da plataforma Alura.
-Utilizados HTML, Javascript e CSS.
+Utilizados HTML e CSS.
 
 ## Exemplos de tela:
 ### Página Home
